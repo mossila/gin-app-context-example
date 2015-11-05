@@ -14,4 +14,4 @@ go run main.go
 
 And open browser to http://localhost:8080
 
-Greate Idea from [Custom Handlers and Avoiding Globals in Go Web Applications](https://elithrar.github.io/article/custom-handlers-avoiding-globals/)
+Great idea from [Custom Handlers and Avoiding Globals in Go Web Applications](https://elithrar.github.io/article/custom-handlers-avoiding-globals/)
