@@ -15,7 +15,7 @@ go run main.go
 And open browser to http://localhost:8080
 
 
-```golang
+```go
 package main
 
 import (
